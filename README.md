@@ -19,7 +19,7 @@ After installation of these packages I used node index.js to start the applicati
 
 
 
-### Link for a video demonstrating how the application works:
+### Link for the video demonstrating how the application works:
 
 
 ## Future development
@@ -41,18 +41,6 @@ I would also like to make the app more aesthetically pleasing.
 If you would like to contribute or enhance the application, feel free to reach out to me through my email: -gobecodeme@gmail.com
 
 
-
-### Walkthrough Video: 27%
-
-* A walkthrough video that demonstrates the functionality of the employee tracker must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must show all of the technical acceptance criteria being met.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate a functional menu with the options outlined in the acceptance criteria.
-
-* A walkthrough video demonstrating the functionality of the application.
 
 
 
