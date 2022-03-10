@@ -17,10 +17,18 @@ After installation of these packages I used node index.js to start the applicati
 
 ## Media
 
+Here is a picture of the main menu:
+
+![CLIComp](https://user-images.githubusercontent.com/95048609/157560777-f331eb79-b059-4cd4-a532-099b9c65dc5d.jpeg)
+
+And another picture with all of the options showing:
+
+![CLIAllCoData](https://user-images.githubusercontent.com/95048609/157560797-7d5829f9-7cfb-46b8-b7d5-43aa8c1d646f.jpeg)
 
 
 ### Link for the video demonstrating how the application works:
 
+https://drive.google.com/file/d/1ib2FfGmxvUdDB2lGV0_77jjsQCRPJsSd/view
 
 ## Future development
 
