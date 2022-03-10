@@ -5,7 +5,7 @@ USE comp_db;
 
 CREATE TABLE department (
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(45) NOT NULL
+    department VARCHAR(45) NOT NULL
 );
 
 CREATE TABLE role (
